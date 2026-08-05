@@ -6,7 +6,8 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
 
   color: #444;
-
+  background-color: #dcdcdc;
+  
   display: grid;
   row-gap: 5px;
   grid-template-columns: auto auto;
