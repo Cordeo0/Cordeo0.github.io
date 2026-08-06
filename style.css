@@ -1,9 +1,10 @@
 body {
   margin: 0 auto;
-  max-width: 1400px;
-  min-width: 0;
+  max-width: 1000px;
+  min-width: 700px;
   padding: 25px 10px 25px;
   font-family: "Helvetica", "Arial", sans-serif;
+  justify-content: center;
 
   color: #444;
   background-color: #dcdcdc;
