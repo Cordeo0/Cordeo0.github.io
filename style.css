@@ -18,10 +18,10 @@ body {
     "ct ct"
 }
 .container {
-  max-width: 900px;
-  margin: 0 auto;
+  width: 800px;
+  margin: 50px auto;
   background-color: white;
-  min-height: 100vh;
+  min-height: 600px;
   padding: 30px;
 }
 
