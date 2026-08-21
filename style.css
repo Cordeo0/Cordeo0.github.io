@@ -33,19 +33,17 @@ header {
   justify-self: left;
   align-self: end;
 }
-nav {
-  font-size: 18px;
-  letter-spacing: 1px;
-
-  grid-area: nav;
-  justify-self: right;
-  align-self: end;
+.top-links {
+    display: flex;
+    gap: 10px;
 }
-nav a {
-  margin-left: 20px;
 
-  text-align: right;
+.link-box {
+    flex: 1;
+    padding: 15px;
+    text-align: center;
 }
+
 article {
   font-size: 16px;
   
