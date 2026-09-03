@@ -18,6 +18,12 @@ body {
     "header nav"
     "ct ct"
 }
+.img1{
+  background-image: url('images/bg_img1.jpg')
+}
+.img2{
+  background-image: url('images/bg_img2.jpg')
+}
 .container {
   max-width: 900px;
   margin: 40px auto;
