@@ -24,6 +24,12 @@ body {
 .img2{
   background-image: url('images/bg_img2.jpg')
 }
+.bg_image{
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .container {
   max-width: 900px;
   margin: 40px auto;
