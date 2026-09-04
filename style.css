@@ -7,16 +7,8 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
   justify-content: center;
 
-  
   background-color: #d6d3cc;
 
-  display: grid;
-  row-gap: 5px;
-  grid-template-columns: auto auto;
-  grid-template-rows: 60px auto;
-  grid-template-areas:
-    "header nav"
-    "ct ct"
 }
 .img1{
   background-image: url('images/bg_img1.jpg')
