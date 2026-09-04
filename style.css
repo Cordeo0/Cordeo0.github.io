@@ -22,15 +22,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.container {
-  max-width: 900px;
-  margin: 40px auto;
-  background: #fffdf8;
-  min-height: 100vh;
-  padding: 50px, 60px;
-  box-shadow: 0 4px 12px rgba(0,0,0,.15);
-  
-}
 
 header {
   margin: 0px;
