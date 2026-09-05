@@ -33,3 +33,11 @@ body {
 .img6 {
     background-image: url("images/bg_img6.jpg");
 }
+.image_text {
+    color: white;
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+
+    text-shadow: 2px 2px 8px black;
+}
